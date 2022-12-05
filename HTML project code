@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Income Tax Department of India</title>
+        <link rel="stylesheet"type="text/css"href="project.css">
+    </head>
+        <body>
+            <header>
+                <div class="main">
+                <div class="logo">
+                    <img class="img" src="project.jpg"alt="project">
+                </div>
+                    <ul>
+                        <li><a href="aboutus.html">about us</a></li>
+                        <li><a href="feedback.html">feedback</a></li>
+                        <li><a href="accessbility.html">accessbility</a></li>
+                        <li><a href="contactus.html">contact us</a></li>
+                    </ul>
+                </div>
+                <div class="title">
+                    <h1>Income Tax Department Of India</h1>
+                </div>
+                <div class="grid-container">
+                <div class="links">
+                    <marquee>
+                        <img src="important.jpg" alt="important">
+                        <p> "The Income Tax Department has issued an important message. The message talks about linking your PAN and AADHAAR."</p><br> 
+                        <p>"Income Tax Department says that the last date to link PAN & AADHAAR is 31st March, 2020. Moreover, the department confirms that your PAN will become inoperative if you don't link PAN and AADHAAR."</p><br>
+                        <p>" Also, for the convenience of the people who have not linked PAN and AADHAAR yet, the I-T department has released a video tutorial cum step-by-step guide."</p>
+                    </marquee> 
+                </div>
+                <div class="grid-container2">
+                <div class="login">
+                    <form>
+                        <h1>Log in:</h1>
+                        NAME:<br>
+                        <input type="text"name="anyname"placeholder="Username"
+                        required><br><br>
+                        EMAIL:<br>
+                        <input type="email"name="email"placeholder="enter email here"
+                        required><br><br>
+                        PASSWORD:<br>
+                        <input type="password"name="password"placeholder="password"
+                        required><br><br>
+                        <a href="forget password.html">Forget password ?</a><br>
+                        <div class="submit">
+                        <button type="button"onclick="alert('submitted')">submit</button>
+                        <input type="reset"value="reset"><br>
+                        </div>
+                    </form>
+                </div>
+                <div class="news">
+                    <h1>News and updates:</h1>
+                    <p>1.Due to outbreak of pandemic Covid-19 virus, there is severe disruption in the normal working of almost all sectors of economy including functioning of the Income Tax Department. In such a scenario, the applications filed by the payees u/s 195 and 197 of the Act for lowerornil rate of deduction of TDS and
+                        _
+                        by buyers/licensees/lessees u/s 206C (9) of the Act for lowerrate of collection of TCS for F.Y. 2019-20, may not be attended in a timely manner by the TDS-Assessing Officers. This may cause genuine hardship to the payees and buyers/licensees/lessees who have raised the invoice in FY 2019-20 but have not received the paymentfor the sametill date. As payees and buyers/licensees/lessees were not able to intimate the rate of deduction/collection on such amount to the payer and seller/licensor/essor, this has created uncertainty about the rate at which the tax is to be deducted/collected by the payer and seller/licensor/lessor at the time of crediting/debiting the amountin his books of account for FY 2019-20.
+                        </p>
+                        <p>2. Considering the constraints of the Field Officers in disposing of the pending applications for lower or nil rate of TDS/TCS for FY 2019-20 andto mitigate hardships of payees and buyers/licensees/lessees, the CBDT issues following directions/clarifications by exercise ofits powers u/s 119 of the Act.</p>
+                        <p>3. In all the cases where assessees (payees or buyers/licensees/lessees) have timely filed application for lower or nil deduction of TDS/TCS on the TRACESPortal for F.Y.2019-20 and such applications are pending for disposal as on date, the applicant shall intimate, vide an e-mail addressed to the Assessing Officer concerned, the pendency of such applications for FY 2019-20 for the lower/nil deduction/collection</p>
+                        <p>4. The Assessing Officer shall dispose of the applications by 27.04.2020 and communicate to the applicant regarding the issuance/rejection of certificate vide email. The certificate issued for lower/nil rate TDS or lower TCS shall be applicable for the amount credited/debited during the FY 2019-20 after the date of making of application u/s 195,197 or 206C(9) but remained unpaid or not receivedtill the date of issuance of the certificate by the Assessing Officer.</p>
+                        <p>5. The issuanceofcertificate shall be communicated to the applicant whoin turn shall share the same with the deductor/collector.</p>
+                </div>
+                <div class="quick-links">
+                    <h1>Quick links:</h1>
+                    <a href="https://cic.gov.in/">Central Information Commission</a>
+                    <a href="https://eprocure.gov.in/cppp/">Central Public Procurement Portal</a>
+                    <a href="https://www.cci.gov.in/">Competition Commission of India</a>
+                    <a href="https://dor.gov.in/">Department of Revenue</a>
+                    <div class="faq">
+                        <h1>FAQ'S:</h1>
+                         <a href="https://www.incometaxindia.gov.in/forms/income-tax%20rules/2018/itr2_english.pdf">what is ITR2 form? </a><br>
+                         <a href="​​It is a tax levied by the Government of India on the income of every person. The provisions governing the Income-tax are covered in the Income-tax Act, 1961.​">what is income tax?</a>
+                    </div>  
+                </div>
+                </div>
+                </div>
+                </header>
+        </body>
+</html>
